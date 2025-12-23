@@ -4,18 +4,18 @@ import { CheckCircle2 } from "lucide-react";
 const services = [
   {
     title: "Desarrollo de Software a Medida",
-    description: "Creamos la herramienta exacta que tu negocio necesita. Sin funciones sobrantes, sin limitaciones.",
-    features: ["CRM/ERP Personalizados", "Portales de Cliente", "Dashboards Ejecutivos"]
+    description: "Creamos la herramienta exacta que tu negocio necesita. Sin funciones innecesarias, sin restricciones, sin pagar por lo que no usas.",
+    features: ["Gestión de Clientes y Ventas", "Portales donde tus clientes se sirvan solos", "Paneles de Control para decisiones rápidas"]
   },
   {
     title: "Auditoría y Digitalización de Procesos",
-    description: "Analizamos cómo trabaja tu empresa hoy para diseñar cómo trabajará mañana.",
-    features: ["Mapeo de Procesos", "Eliminación de Cuellos de Botella", "Estandarización Operativa"]
+    description: "Analizamos cómo trabaja tu empresa hoy para diseñar cómo trabajará mañana, eliminando el trabajo manual y acelerando todo.",
+    features: ["Identificar dónde se pierde tiempo", "Automatizar tareas repetitivas", "Pasar del Excel a sistemas reales"]
   },
   {
-    title: "Integración de Sistemas (API)",
-    description: "Hacemos que tus herramientas actuales hablen entre sí para evitar la duplicidad de datos.",
-    features: ["Conexión con Bancos/Pagos", "Sincronización de Inventario", "Automatización de Marketing"]
+    title: "Integración de Sistemas",
+    description: "Conectamos las herramientas que ya usas para que hablen entre sí. Adiós a copiar y pegar datos entre sistemas.",
+    features: ["Sincronización automática de datos", "Evitar errores por duplicación", "Todo fluye sin intervención manual"]
   }
 ];
 

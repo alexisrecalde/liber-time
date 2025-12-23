@@ -15,15 +15,15 @@ export default function About() {
           
           <div className="grid md:grid-cols-2 gap-12 text-left mt-16 p-8 bg-white/5 backdrop-blur-sm rounded-3xl border border-white/10">
             <div>
-              <h3 className="text-xl font-bold mb-4 text-accent">Nuestra Filosofía</h3>
+              <h3 className="text-xl font-bold mb-4 text-accent">¿Cómo trabajamos?</h3>
               <p className="text-primary-foreground/80 leading-relaxed">
-                En LiberTime, creemos que las personas deben dedicarse a crear, pensar y decidir, no a copiar y pegar datos en hojas de cálculo. La tecnología debe ser un libertador, no una carga.
+                Nos tomamos el tiempo para entender realmente cuáles son tus desafíos. No venimos con soluciones genéricas. Escuchamos, analizamos y creamos herramientas únicas que se adaptan a cómo trabaja tu empresa hoy, preparándola para crecer mañana.
               </p>
             </div>
             <div>
-              <h3 className="text-xl font-bold mb-4 text-accent">El Enfoque</h3>
+              <h3 className="text-xl font-bold mb-4 text-accent">¿Por qué software a medida?</h3>
               <p className="text-primary-foreground/80 leading-relaxed">
-                No somos solo programadores. Somos consultores de eficiencia. Primero entendemos tu negocio, luego auditamos tus procesos y finalmente construimos la solución tecnológica que te permite volar.
+                Porque tu negocio no es estándar. Las herramientas genéricas tienen funciones que no necesitas y no tienen lo que realmente te falta. Software a medida significa que pagas solo por lo que usas, es seguro, escalable y crece contigo sin limitaciones.
               </p>
             </div>
           </div>
