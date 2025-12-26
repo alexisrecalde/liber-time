@@ -56,17 +56,7 @@ export default function Contact() {
                                 </div>
                                 <div>
                                     <div className="font-bold">Email</div>
-                                    <div className="text-muted-foreground">hola@libertime.com</div>
-                                </div>
-                            </div>
-
-                            <div className="flex items-center gap-4">
-                                <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center text-primary">
-                                    <Phone className="w-5 h-5" />
-                                </div>
-                                <div>
-                                    <div className="font-bold">Teléfono</div>
-                                    <div className="text-muted-foreground">+54 11 0000 0000</div>
+                                    <div className="text-muted-foreground">contacto@liber-time.com</div>
                                 </div>
                             </div>
 
