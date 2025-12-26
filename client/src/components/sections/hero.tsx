@@ -27,12 +27,15 @@ export default function Hero() {
                     </p>
 
                     <div className="flex flex-col sm:flex-row gap-4">
-                        <Button size="lg" className="rounded-full text-lg px-8 h-14 shadow-lg shadow-primary/20">
+                        <Button
+                            size="lg"
+                            className="rounded-full text-lg px-8 h-14 shadow-lg shadow-primary/20"
+                            onClick={() => {
+                                document.getElementById('contact')?.scrollIntoView({ behavior: 'smooth' });
+                            }}
+                        >
                             Agendar diagnóstico gratuito
                             <ArrowRight className="ml-2 w-5 h-5" />
-                        </Button>
-                        <Button variant="outline" size="lg" className="rounded-full text-lg px-8 h-14 border-2">
-                            Ver cómo funciona
                         </Button>
                     </div>
 
